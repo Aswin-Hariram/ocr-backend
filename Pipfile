@@ -49,6 +49,7 @@ pytesseract = "*"
 pillow = "*"
 python-dotenv = "*"
 easyocr = {git = "https://github.com/JaidedAI/EasyOCR.git"}
+gunicorn = "*"
 
 [dev-packages]
 
